@@ -1,0 +1,20 @@
+# Apprentice colorscheme
+BackgroundColour=38,38,38
+ForegroundColour=188,188,188
+CursorColour=188,188,188
+Black=28,28,28
+BoldBlack=68,68,68
+Red=175,95,95
+BoldRed=255,135,0
+Green=95,135,95
+BoldGreen=135,175,135
+Yellow=135,135,95
+BoldYellow=255,255,175
+Blue=95,135,175
+BoldBlue=143,175,215
+Magenta=95,95,135
+BoldMagenta=135,135,175
+Cyan=95,135,135
+BoldCyan=95,175,175
+White=108,108,108
+BoldWhite=255,255,255
